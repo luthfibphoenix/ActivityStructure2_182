@@ -37,4 +37,5 @@ int main()
 	cout << "\nNama : " << mhs.nama;
 	cout << "\ndesa : " << mhs.alamat.desa;
 	cout << "\nkota : " << mhs.alamat.kota;
+
 }
